@@ -1,0 +1,248 @@
+body {
+  margin: 10px;
+  background-color: #D7D9CE;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 10px;
+  }
+  
+  .h1-heading, p {
+    text-align: center;
+    
+  }
+  
+  .heading-container {
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: #119DA4;
+    margin-bottom: 10px;
+    
+  }
+  .h1-heading {
+    font-size: 50px;
+  }
+
+  .p-heading {
+    font-size: 25px;
+    padding: 5px;
+    font-weight: bold;
+  }
+
+  .steak-img-123 {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .step1-pics-container {
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  .step1-div-container {
+    text-align: center;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+  }
+
+  .p-temp {
+    width: 400px;
+  }
+
+  .steak-temp-pic {
+    width: 250px;
+  }
+  
+  .p-temp2 {
+    font-size: 20px;
+  }
+
+  .input-1234 {
+    display: block;
+    
+  }
+
+  .how-cooked {
+    display: flex;
+    justify-content: center;
+  }
+
+  .cooked {
+    margin-left: 50px;
+    margin-bottom: 10px;
+    
+  }
+
+  .cook {
+    margin-top: 70px;
+  }
+  .coo {
+    margin-top: 70px;
+    font-size: 25px;
+    background-color: #119DA4;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+    
+  }
+
+.step2 {
+ text-align: center;
+  font-size: 23px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.step2-container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+  font-size: 25px;
+}
+
+.step2-container2 {
+  display: flex;
+  justify-content: space-around;
+  font-size: 25px;
+  margin-bottom: 30px;
+}
+
+.simple {
+  font-size: 20px;
+}
+
+.contain {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.contain2 {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.pp {
+  font-size: 25px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #119DA4;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+.step4 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+  
+}
+
+.step44 {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.p-prepare {
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+.img-p {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.img-p2 {
+width: 200px;
+}
+
+.p-2 {
+width: 400px;
+margin-top: 50px;
+margin-left: 20px;
+}
+
+.step4-container {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+.step4-container2 {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+.stove {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  margin: 10px auto 30px auto;
+}
+
+.ppp {
+  margin: 50px 20px 0 20px;
+}
+
+.pppp {
+  font-size: 20px;
+}
+
+.step6-container {
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #119DA4;
+}
+
+.step6 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+}
+.zxc {
+  width: 400px;
+}
+
+.step66 {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
